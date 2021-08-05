@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    width: 1200px;
+    margin: auto;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width:250px;
+    height: 90px;
+    padding: 20px;
+    margin-top: 1rem;
+}
+.grid button{
+    font-size: 90px;
+    
+}
+.operator{
+    margin-top: 5rem;
+}
+.inputbox{
+    margin-top: 2rem;
+    height: 3rem;
+    width: 20rem;
+    font-size: 2rem;
+}
+button{
+    font-size: 40px;
+}
